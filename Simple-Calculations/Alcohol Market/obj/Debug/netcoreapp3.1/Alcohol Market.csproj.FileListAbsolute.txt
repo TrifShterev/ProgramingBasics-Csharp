@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.exe
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.deps.json
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.runtimeconfig.json
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\bin\Debug\netcoreapp3.1\Smart Lilly.exe
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\bin\Debug\netcoreapp3.1\Smart Lilly.deps.json
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\bin\Debug\netcoreapp3.1\Smart Lilly.runtimeconfig.json
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\bin\Debug\netcoreapp3.1\Smart Lilly.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\bin\Debug\netcoreapp3.1\Smart Lilly.dll
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\bin\Debug\netcoreapp3.1\Smart Lilly.pdb
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\obj\Debug\netcoreapp3.1\Smart Lilly.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\obj\Debug\netcoreapp3.1\Smart Lilly.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\obj\Debug\netcoreapp3.1\Smart Lilly.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\obj\Debug\netcoreapp3.1\Smart Lilly.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\obj\Debug\netcoreapp3.1\Smart Lilly.dll
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\obj\Debug\netcoreapp3.1\Smart Lilly.pdb
+C:\Users\tshte\source\repos\Loops-Exercises\Smart Lilly\obj\Debug\netcoreapp3.1\Smart Lilly.genruntimeconfig.cache

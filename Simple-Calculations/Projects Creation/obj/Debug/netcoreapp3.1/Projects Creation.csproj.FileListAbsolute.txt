@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.exe
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.deps.json
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.runtimeconfig.json
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.genruntimeconfig.cache

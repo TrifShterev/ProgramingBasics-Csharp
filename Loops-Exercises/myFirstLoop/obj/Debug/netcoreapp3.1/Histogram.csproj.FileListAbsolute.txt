@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\Histogram.exe
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\Histogram.deps.json
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.json
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\Histogram.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\Histogram.genruntimeconfig.cache

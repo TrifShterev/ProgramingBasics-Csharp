@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Expression\Num1to10\bin\Debug\netcoreapp3.1\Num1to10.exe
+C:\Users\tshte\source\repos\Expression\Num1to10\bin\Debug\netcoreapp3.1\Num1to10.deps.json
+C:\Users\tshte\source\repos\Expression\Num1to10\bin\Debug\netcoreapp3.1\Num1to10.runtimeconfig.json
+C:\Users\tshte\source\repos\Expression\Num1to10\bin\Debug\netcoreapp3.1\Num1to10.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Expression\Num1to10\bin\Debug\netcoreapp3.1\Num1to10.dll
+C:\Users\tshte\source\repos\Expression\Num1to10\bin\Debug\netcoreapp3.1\Num1to10.pdb
+C:\Users\tshte\source\repos\Expression\Num1to10\obj\Debug\netcoreapp3.1\Num1to10.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Expression\Num1to10\obj\Debug\netcoreapp3.1\Num1to10.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Expression\Num1to10\obj\Debug\netcoreapp3.1\Num1to10.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Expression\Num1to10\obj\Debug\netcoreapp3.1\Num1to10.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Expression\Num1to10\obj\Debug\netcoreapp3.1\Num1to10.dll
+C:\Users\tshte\source\repos\Expression\Num1to10\obj\Debug\netcoreapp3.1\Num1to10.pdb
+C:\Users\tshte\source\repos\Expression\Num1to10\obj\Debug\netcoreapp3.1\Num1to10.genruntimeconfig.cache

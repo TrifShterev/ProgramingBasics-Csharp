@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\bin\Debug\netcoreapp3.1\TimeOfTheExam.exe
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\bin\Debug\netcoreapp3.1\TimeOfTheExam.deps.json
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\bin\Debug\netcoreapp3.1\TimeOfTheExam.runtimeconfig.json
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\bin\Debug\netcoreapp3.1\TimeOfTheExam.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\bin\Debug\netcoreapp3.1\TimeOfTheExam.dll
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\bin\Debug\netcoreapp3.1\TimeOfTheExam.pdb
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\obj\Debug\netcoreapp3.1\TimeOfTheExam.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\obj\Debug\netcoreapp3.1\TimeOfTheExam.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\obj\Debug\netcoreapp3.1\TimeOfTheExam.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\obj\Debug\netcoreapp3.1\TimeOfTheExam.dll
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\obj\Debug\netcoreapp3.1\TimeOfTheExam.pdb
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\obj\Debug\netcoreapp3.1\TimeOfTheExam.genruntimeconfig.cache
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\TimeOfTheExam\obj\Debug\netcoreapp3.1\TimeOfTheExam.csprojAssemblyReference.cache

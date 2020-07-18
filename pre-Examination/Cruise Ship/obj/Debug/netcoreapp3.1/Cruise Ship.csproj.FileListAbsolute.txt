@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.exe
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.deps.json
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.runtimeconfig.json
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.dll
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\bin\Debug\netcoreapp3.1\Cruise Ship.pdb
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.AssemblyInfo.cs
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.dll
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.pdb
+C:\Users\tshte\source\repos\pre-Examination\Cruise Ship\obj\Debug\netcoreapp3.1\Cruise Ship.genruntimeconfig.cache

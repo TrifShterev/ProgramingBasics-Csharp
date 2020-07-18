@@ -1,0 +1,12 @@
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.exe
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.deps.json
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.runtimeconfig.json
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.genruntimeconfig.cache

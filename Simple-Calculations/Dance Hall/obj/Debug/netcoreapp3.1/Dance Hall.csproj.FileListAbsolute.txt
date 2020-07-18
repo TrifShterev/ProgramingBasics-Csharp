@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.exe
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.deps.json
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.runtimeconfig.json
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.genruntimeconfig.cache

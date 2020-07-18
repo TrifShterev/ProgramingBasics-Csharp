@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Loops\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.exe
+C:\Users\tshte\source\repos\Loops\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.deps.json
+C:\Users\tshte\source\repos\Loops\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.runtimeconfig.json
+C:\Users\tshte\source\repos\Loops\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Loops\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.dll
+C:\Users\tshte\source\repos\Loops\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.pdb
+C:\Users\tshte\source\repos\Loops\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Loops\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Loops\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Loops\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Loops\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.dll
+C:\Users\tshte\source\repos\Loops\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.pdb
+C:\Users\tshte\source\repos\Loops\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.genruntimeconfig.cache

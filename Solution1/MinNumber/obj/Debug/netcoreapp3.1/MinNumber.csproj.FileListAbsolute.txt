@@ -1,0 +1,12 @@
+C:\Users\tshte\source\repos\Solution1\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Solution1\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Solution1\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Solution1\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.exe
+C:\Users\tshte\source\repos\Solution1\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.deps.json
+C:\Users\tshte\source\repos\Solution1\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.json
+C:\Users\tshte\source\repos\Solution1\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Solution1\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.dll
+C:\Users\tshte\source\repos\Solution1\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.pdb
+C:\Users\tshte\source\repos\Solution1\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.dll
+C:\Users\tshte\source\repos\Solution1\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.pdb
+C:\Users\tshte\source\repos\Solution1\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.genruntimeconfig.cache

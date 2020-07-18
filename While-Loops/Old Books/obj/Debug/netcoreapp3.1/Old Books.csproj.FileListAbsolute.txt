@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\While-Loops\Old Books\bin\Debug\netcoreapp3.1\Old Books.exe
+C:\Users\tshte\source\repos\While-Loops\Old Books\bin\Debug\netcoreapp3.1\Old Books.deps.json
+C:\Users\tshte\source\repos\While-Loops\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.json
+C:\Users\tshte\source\repos\While-Loops\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\While-Loops\Old Books\bin\Debug\netcoreapp3.1\Old Books.dll
+C:\Users\tshte\source\repos\While-Loops\Old Books\bin\Debug\netcoreapp3.1\Old Books.pdb
+C:\Users\tshte\source\repos\While-Loops\Old Books\obj\Debug\netcoreapp3.1\Old Books.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\While-Loops\Old Books\obj\Debug\netcoreapp3.1\Old Books.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\While-Loops\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\While-Loops\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfo.cs
+C:\Users\tshte\source\repos\While-Loops\Old Books\obj\Debug\netcoreapp3.1\Old Books.dll
+C:\Users\tshte\source\repos\While-Loops\Old Books\obj\Debug\netcoreapp3.1\Old Books.pdb
+C:\Users\tshte\source\repos\While-Loops\Old Books\obj\Debug\netcoreapp3.1\Old Books.genruntimeconfig.cache

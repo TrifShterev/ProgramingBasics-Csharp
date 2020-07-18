@@ -1,0 +1,6 @@
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.exe
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.dll
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.pdb

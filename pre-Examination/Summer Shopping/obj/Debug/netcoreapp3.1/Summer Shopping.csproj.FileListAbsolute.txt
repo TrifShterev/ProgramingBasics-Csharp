@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.exe
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.deps.json
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.runtimeconfig.json
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.dll
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\bin\Debug\netcoreapp3.1\Summer Shopping.pdb
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.AssemblyInfo.cs
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.dll
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.pdb
+C:\Users\tshte\source\repos\pre-Examination\Summer Shopping\obj\Debug\netcoreapp3.1\Summer Shopping.genruntimeconfig.cache

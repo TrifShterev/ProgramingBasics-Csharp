@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\myFirstLoop.exe
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\myFirstLoop.deps.json
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\myFirstLoop.runtimeconfig.json
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\myFirstLoop.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\myFirstLoop.dll
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\bin\Debug\netcoreapp3.1\myFirstLoop.pdb
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\myFirstLoop.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\myFirstLoop.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\myFirstLoop.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\myFirstLoop.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\myFirstLoop.dll
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\myFirstLoop.pdb
+C:\Users\tshte\source\repos\Loops-Exercises\myFirstLoop\obj\Debug\netcoreapp3.1\myFirstLoop.genruntimeconfig.cache

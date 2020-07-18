@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\tshte\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\tshte\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\tshte\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\tshte\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\tshte\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\tshte\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\tshte\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

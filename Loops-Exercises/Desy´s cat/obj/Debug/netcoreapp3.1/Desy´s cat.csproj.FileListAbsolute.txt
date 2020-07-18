@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\bin\Debug\netcoreapp3.1\Desy´s cat.exe
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\bin\Debug\netcoreapp3.1\Desy´s cat.deps.json
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\bin\Debug\netcoreapp3.1\Desy´s cat.runtimeconfig.json
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\bin\Debug\netcoreapp3.1\Desy´s cat.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\bin\Debug\netcoreapp3.1\Desy´s cat.dll
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\bin\Debug\netcoreapp3.1\Desy´s cat.pdb
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\obj\Debug\netcoreapp3.1\Desy´s cat.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\obj\Debug\netcoreapp3.1\Desy´s cat.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\obj\Debug\netcoreapp3.1\Desy´s cat.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\obj\Debug\netcoreapp3.1\Desy´s cat.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\obj\Debug\netcoreapp3.1\Desy´s cat.dll
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\obj\Debug\netcoreapp3.1\Desy´s cat.pdb
+C:\Users\tshte\source\repos\Loops-Exercises\Desy´s cat\obj\Debug\netcoreapp3.1\Desy´s cat.genruntimeconfig.cache

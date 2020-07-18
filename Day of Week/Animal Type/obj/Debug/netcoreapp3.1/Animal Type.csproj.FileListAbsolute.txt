@@ -1,0 +1,12 @@
+C:\Users\tshte\source\repos\Day of Week\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.exe
+C:\Users\tshte\source\repos\Day of Week\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.deps.json
+C:\Users\tshte\source\repos\Day of Week\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.runtimeconfig.json
+C:\Users\tshte\source\repos\Day of Week\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Day of Week\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.dll
+C:\Users\tshte\source\repos\Day of Week\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.pdb
+C:\Users\tshte\source\repos\Day of Week\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Day of Week\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Day of Week\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Day of Week\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.dll
+C:\Users\tshte\source\repos\Day of Week\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.pdb
+C:\Users\tshte\source\repos\Day of Week\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.genruntimeconfig.cache

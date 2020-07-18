@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Loops\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.exe
+C:\Users\tshte\source\repos\Loops\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.deps.json
+C:\Users\tshte\source\repos\Loops\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.runtimeconfig.json
+C:\Users\tshte\source\repos\Loops\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Loops\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.dll
+C:\Users\tshte\source\repos\Loops\Number sequence\bin\Debug\netcoreapp3.1\Number sequence.pdb
+C:\Users\tshte\source\repos\Loops\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Loops\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Loops\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Loops\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.dll
+C:\Users\tshte\source\repos\Loops\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.pdb
+C:\Users\tshte\source\repos\Loops\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.genruntimeconfig.cache
+C:\Users\tshte\source\repos\Loops\Number sequence\obj\Debug\netcoreapp3.1\Number sequence.csprojAssemblyReference.cache

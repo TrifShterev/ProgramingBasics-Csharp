@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\pre-Examination\Savings\bin\Debug\netcoreapp3.1\Savings.exe
+C:\Users\tshte\source\repos\pre-Examination\Savings\bin\Debug\netcoreapp3.1\Savings.deps.json
+C:\Users\tshte\source\repos\pre-Examination\Savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.json
+C:\Users\tshte\source\repos\pre-Examination\Savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\pre-Examination\Savings\bin\Debug\netcoreapp3.1\Savings.dll
+C:\Users\tshte\source\repos\pre-Examination\Savings\bin\Debug\netcoreapp3.1\Savings.pdb
+C:\Users\tshte\source\repos\pre-Examination\Savings\obj\Debug\netcoreapp3.1\Savings.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\pre-Examination\Savings\obj\Debug\netcoreapp3.1\Savings.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\pre-Examination\Savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\pre-Examination\Savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfo.cs
+C:\Users\tshte\source\repos\pre-Examination\Savings\obj\Debug\netcoreapp3.1\Savings.dll
+C:\Users\tshte\source\repos\pre-Examination\Savings\obj\Debug\netcoreapp3.1\Savings.pdb
+C:\Users\tshte\source\repos\pre-Examination\Savings\obj\Debug\netcoreapp3.1\Savings.genruntimeconfig.cache

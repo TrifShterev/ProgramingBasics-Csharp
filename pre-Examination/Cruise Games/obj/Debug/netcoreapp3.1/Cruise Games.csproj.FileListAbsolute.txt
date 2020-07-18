@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.exe
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.deps.json
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.runtimeconfig.json
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.dll
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\bin\Debug\netcoreapp3.1\Cruise Games.pdb
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.AssemblyInfo.cs
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.dll
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.pdb
+C:\Users\tshte\source\repos\pre-Examination\Cruise Games\obj\Debug\netcoreapp3.1\Cruise Games.genruntimeconfig.cache

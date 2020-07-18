@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.exe
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.deps.json
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.runtimeconfig.json
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\bin\Debug\netcoreapp3.1\Tailoring Workshop.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Tailoring Workshop\obj\Debug\netcoreapp3.1\Tailoring Workshop.genruntimeconfig.cache

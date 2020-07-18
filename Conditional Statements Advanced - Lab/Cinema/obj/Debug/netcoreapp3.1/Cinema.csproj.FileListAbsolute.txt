@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
+C:\Users\tshte\source\repos\Conditional Statements Advanced - Lab\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Read Text.exe
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Read Text.deps.json
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.json
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Read Text.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Read Text.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\tshte\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Read Text.genruntimeconfig.cache

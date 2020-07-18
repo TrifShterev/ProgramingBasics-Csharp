@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.exe
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.deps.json
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.json
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.genruntimeconfig.cache

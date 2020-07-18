@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Solution1\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.exe
+C:\Users\tshte\source\repos\Solution1\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.deps.json
+C:\Users\tshte\source\repos\Solution1\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.runtimeconfig.json
+C:\Users\tshte\source\repos\Solution1\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Solution1\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.dll
+C:\Users\tshte\source\repos\Solution1\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.pdb
+C:\Users\tshte\source\repos\Solution1\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Solution1\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Solution1\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Solution1\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Solution1\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.dll
+C:\Users\tshte\source\repos\Solution1\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.pdb
+C:\Users\tshte\source\repos\Solution1\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.genruntimeconfig.cache

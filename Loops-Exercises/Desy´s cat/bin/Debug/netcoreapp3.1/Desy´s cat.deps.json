@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desy´s cat/1.0.0": {
+        "runtime": {
+          "Desy´s cat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desy´s cat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

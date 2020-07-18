@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.exe
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.deps.json
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.runtimeconfig.json
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.dll
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.pdb
+C:\Users\tshte\source\repos\Simple-Calculations\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.genruntimeconfig.cache

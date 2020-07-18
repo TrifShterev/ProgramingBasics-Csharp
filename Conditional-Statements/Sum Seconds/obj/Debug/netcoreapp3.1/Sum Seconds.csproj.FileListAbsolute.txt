@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\bin\Debug\netcoreapp3.1\Sum Seconds.exe
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\bin\Debug\netcoreapp3.1\Sum Seconds.deps.json
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\bin\Debug\netcoreapp3.1\Sum Seconds.runtimeconfig.json
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\bin\Debug\netcoreapp3.1\Sum Seconds.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\bin\Debug\netcoreapp3.1\Sum Seconds.dll
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\bin\Debug\netcoreapp3.1\Sum Seconds.pdb
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\obj\Debug\netcoreapp3.1\Sum Seconds.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\obj\Debug\netcoreapp3.1\Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\obj\Debug\netcoreapp3.1\Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\obj\Debug\netcoreapp3.1\Sum Seconds.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\obj\Debug\netcoreapp3.1\Sum Seconds.dll
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\obj\Debug\netcoreapp3.1\Sum Seconds.pdb
+C:\Users\tshte\source\repos\Conditional-Statements\Sum Seconds\obj\Debug\netcoreapp3.1\Sum Seconds.genruntimeconfig.cache
